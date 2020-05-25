@@ -1,2 +1,10 @@
 # carcontrol - vRP version
- En vrp version af carcontrol til esx https://discordapp.com/channels/695016956884942849/713491762743869440/714220370596593774
+
+En Version af Carcontrol lavet til at virke med vRP
+https://streamable.com/h9zv0
+
+Alle credits går til den orginale creator, jeg fik blot tilsendt en esx version, og konverterede få linjer af kode til vRP
+
+## Problems?
+Join min discord ved problemer
+https://discord.gg/euc3xrc
