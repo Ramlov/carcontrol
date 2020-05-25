@@ -5,7 +5,6 @@ ui_page 'html/carcontrol.html'
 file {
   "client/Tunnel.lua",
   "client/Proxy.lua",
-  'Newtonsoft.Json.dll',
   'html/carbon.jpg',
   'html/carcontrol.html',
   'html/doorFrontLeft.png',
@@ -26,7 +25,6 @@ file {
 }
 
 client_scripts {
-  'Config.lua',
   'utils.lua',
   'client/Client.lua',
 }
